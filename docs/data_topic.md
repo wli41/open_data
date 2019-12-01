@@ -155,16 +155,14 @@ This is the U.S. Bureau of Labor Statistics website, which contains myriad datas
 
 
 ---
-### <a name="d13">Week 13 Dec 2: [W. Li's Topic: H-1B VISA Data](https://public.enigma.com).</a>
+### <a name="d13">Week 13 Dec 2: [W. Li's Topic: AI in Historical Research and U.S. National Archives](https://www.archives.gov/).</a>
 
 ### Dataset background
-
-These are H-1B Visas applications data from 2006 - 2018, which includes applicants' employers, wage rates, job titles, employers' addresses, etc. I hope to find features of H-1B Visa applications, such as the applicants' average wage rates, their employers' location, etc. Also, I hope to figure out what are kinds of jobs or employers with most applicants; are H-1B Visa applicants often paid averagely less than the native employees, regarding the same job positions?
+The Freedom of Information Act (FOIA) requests the U.S. government release government archives according to archives' classification levels, which includes unclassified, limitied official use, confidential, and secret. Those government archives are preserving by U.S. National Archives and Records Administration (NARA). Recentlt, NARA is digitalizing their archives. The release of the first generation of U.S. government electronic records presents new opportunities to analyze this problem using well-developed methods from natural language processing (NLP) and machine-learning.
 
 #### Related academic study
-* Watts, Julie R. "The H-1B visa: Free market solutions for business and labor." Population Research and Policy Review 20 (2001): 143–156.
-* The debate on the H-1B Visa often concentrates on the statement that the H-1B visa program opened the US information technology labor market to temporary, skilled immigrant labor. However, the author argues that this debate often obscures the fundamental flaws of the H-1B Visa. These flaws privilege the IT industry at the expense of H-1B holders and domestic IT workers and should be remedied to ensure that both business and labor abide by free-market principles. The employers’ ability to hire globally must be balanced by workers’ rights to seek out better opportunities. Workers with H-1B Visa are bound to a specific employer for 6 years, which restricts the ability of H-1B holders to compete in an open market, and enables employers to pay a salary often below market value. Also, this restriction jeopardizes domestic IT workers by enabling the IT companies to replace domestic workers to cheaper, temporary immigrant labor.
-
+* Renato Rocha Souza, Flavio Codeco Coelho, Rohan Shah, Matthew Connelly. "Using Artificial Intelligence to Identify State Secrets." Computers and Society (Submitted on 1 Nov 2016).
+* U.S. National Archives and Records Administration (NARA) is digitalizing their archives, and making those electronic records accessable online, which include releaded government communitaion cables during 1970s. Those cables are used to be classified as unclassified, limited official use, confidential, and secret.This paper discusses how the authors use natrual language processing and machine-learning to analyze how those cables were classified? What are the features that secret cables possess? By answering these questions, historians may conclude the classification policy and the general political and diplomatic tendency during 1970s.
 
 ---
 ### <a name="d14a">Week 14 Dec 9: [M. Warner's Topic: World Inequality Database](https://wid.world/)</a>
